@@ -7,7 +7,7 @@
 6. [Support](#support)
 
 ## Large Language Models Papers
-This GitHub repository contains an updated list of Large Language Models papers as of **September 08, 2025**. 
+This GitHub repository contains an updated list of Large Language Models papers as of **September 14, 2025**. 
 
 ### Overview
 - **Total Papers**: Updated regularly with latest publications
@@ -74,15 +74,15 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 <!-- 
 ### Summary Statistics
-- **Total Papers in Dataset**: 30,906
+- **Total Papers in Dataset**: 31,293
 - **Papers with Available Code**: 1,258
-- **Code Availability Rate**: 4.1%
-- **Last Updated**: September 08, 2025
+- **Code Availability Rate**: 4.0%
+- **Last Updated**: September 14, 2025
 
 ### Paper Statistics
-- **Total Papers**: 30906
-- **Papers with Code**: 30906
-- **Latest Update**: 30906
+- **Total Papers**: 31293
+- **Papers with Code**: 31293
+- **Latest Update**: 31293
 - **Coverage Period**: 2016 - Present -->
 
 ---
