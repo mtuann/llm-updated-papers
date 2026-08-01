@@ -1,6 +1,6 @@
 # Large Language Models Papers
 
-Updated list of Large Language Models papers as of **July 31, 2026**. 
+Updated list of Large Language Models papers as of **August 01, 2026**. 
 
 ## Quick Access
 🔍 **[Interactive Search & Browse](https://mtuann.github.io/papers/)** - Filter, search, and explore all papers with an intuitive interface
